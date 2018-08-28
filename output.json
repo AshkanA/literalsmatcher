@@ -1,0 +1,3150 @@
+[
+  {
+    "literal": {
+      "name": "Poli",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1749984",
+        "name": "Poai",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Brunei Bay",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1733869",
+        "name": "Brunei Bay",
+        "alternate": "Brunei Bay",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Kapuas",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "8613461",
+        "name": "Kapuak",
+        "alternate": "Kapuak",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Sampit",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1628884",
+        "name": "Sampit",
+        "alternate": "SMQ",
+        "distance": 0
+      },
+      {
+        "id": "9022527",
+        "name": "Samplit",
+        "alternate": "Samplit",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Sambas",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1628979",
+        "name": "Sambas",
+        "alternate": "Sambas",
+        "distance": 0
+      },
+      {
+        "id": "8430460",
+        "name": "Sambau",
+        "alternate": "Sambau",
+        "distance": 1
+      },
+      {
+        "id": "8613414",
+        "name": "Sambau",
+        "alternate": "Sambau",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Wawai",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1642671",
+        "name": "Jawai",
+        "alternate": "Djawai",
+        "distance": 1
+      },
+      {
+        "id": "1733536",
+        "name": "Wasai",
+        "distance": 1
+      },
+      {
+        "id": "1733561",
+        "name": "Tawai",
+        "alternate": "Tavai Plateau",
+        "distance": 1
+      },
+      {
+        "id": "1741229",
+        "name": "Tawai",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Lawai",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1642671",
+        "name": "Jawai",
+        "alternate": "Djawai",
+        "distance": 1
+      },
+      {
+        "id": "1733561",
+        "name": "Tawai",
+        "alternate": "Tavai Plateau",
+        "distance": 1
+      },
+      {
+        "id": "1737589",
+        "name": "Lawas",
+        "alternate": "LWY",
+        "distance": 1
+      },
+      {
+        "id": "1737590",
+        "name": "Lawas",
+        "alternate": "Lawas",
+        "distance": 1
+      },
+      {
+        "id": "1738150",
+        "name": "Lawas",
+        "distance": 1
+      },
+      {
+        "id": "1741229",
+        "name": "Tawai",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Landa",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1638509",
+        "name": "Landau",
+        "distance": 1
+      },
+      {
+        "id": "1638510",
+        "name": "Landau",
+        "distance": 1
+      },
+      {
+        "id": "8430527",
+        "name": "Lanja",
+        "alternate": "Lanja",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Burune",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1647543",
+        "name": "Burung",
+        "distance": 1
+      },
+      {
+        "id": "1647544",
+        "name": "Burung",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Pasir",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "9022043",
+        "name": "Pasir",
+        "alternate": "Pasir",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Tidung",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "7768766",
+        "name": "Tidong",
+        "alternate": "Tidong",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Matan",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1635900",
+        "name": "Matan",
+        "distance": 0
+      },
+      {
+        "id": "1636222",
+        "name": "Mapan",
+        "distance": 1
+      },
+      {
+        "id": "1636964",
+        "name": "Macan",
+        "distance": 1
+      },
+      {
+        "id": "1755597",
+        "name": "Matau",
+        "distance": 1
+      },
+      {
+        "id": "7771830",
+        "name": "Mattan",
+        "alternate": "Mattan",
+        "distance": 1
+      },
+      {
+        "id": "7783232",
+        "name": "Ratan",
+        "alternate": "Ratan",
+        "distance": 1
+      },
+      {
+        "id": "8430343",
+        "name": "Mawan",
+        "alternate": "Mawan",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Sadong",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1733360",
+        "name": "Gadong",
+        "alternate": "Gadong",
+        "distance": 1
+      },
+      {
+        "id": "1733811",
+        "name": "Sapong",
+        "distance": 1
+      },
+      {
+        "id": "8430935",
+        "name": "Adong",
+        "alternate": "Adong",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Sarawak",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1733038",
+        "name": "Sarawak",
+        "alternate": "SRW",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Borneo",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1648148",
+        "name": "Borneo",
+        "alternate": "Boirneo",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Peniraman",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1631453",
+        "name": "Peniraman",
+        "distance": 0
+      },
+      {
+        "id": "9021975",
+        "name": "Paniraman",
+        "alternate": "Paniraman",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Borney",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1648148",
+        "name": "Borneo",
+        "alternate": "Boirneo",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Brunei",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1733368",
+        "name": "Brunei",
+        "alternate": "Brunei",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Tanjung",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "9018330",
+        "name": "Tanjung",
+        "alternate": "Tanjung",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Laue",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1638303",
+        "name": "Laut",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Pulu Laut",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1638298",
+        "name": "Pulau Laut",
+        "alternate": "Poelau Laoet",
+        "distance": 1
+      },
+      {
+        "id": "1638300",
+        "name": "Pulau Laut",
+        "alternate": "Poelau Laoet",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Kendavangan",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1640340",
+        "name": "Kendawangan",
+        "alternate": "Kendangan",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Pamukan",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1733818",
+        "name": "Namukan",
+        "distance": 1
+      },
+      {
+        "id": "1733831",
+        "name": "Namukan",
+        "alternate": "Kampong Namukan",
+        "distance": 1
+      },
+      {
+        "id": "1899884",
+        "name": "Patukan",
+        "distance": 1
+      },
+      {
+        "id": "7588832",
+        "name": "Namukan",
+        "alternate": "Namukan",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Kinabatangan",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1966751",
+        "name": "Kinabatangan",
+        "alternate": "Kinabatangan",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Pertan",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "8551168",
+        "name": "Peran",
+        "alternate": "Peran",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Tabaran",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1742287",
+        "name": "Taburan",
+        "distance": 1
+      },
+      {
+        "id": "7771817",
+        "name": "Tabasan",
+        "alternate": "Tabasan",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Tanjung Sirik",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1736779",
+        "name": "Tanjung Sirik",
+        "alternate": "Cape Sorik",
+        "distance": 0
+      },
+      {
+        "id": "1736991",
+        "name": "Tanjung Sirih",
+        "alternate": "Tanjong Sireh",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Tanjung Datu",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1736708",
+        "name": "Tanjung Datu",
+        "alternate": "Cape Datoek",
+        "distance": 0
+      },
+      {
+        "id": "1737010",
+        "name": "Tanjung Batu",
+        "distance": 1
+      },
+      {
+        "id": "1737482",
+        "name": "Tanjung Batu",
+        "distance": 1
+      },
+      {
+        "id": "1738028",
+        "name": "Tanjung Batu",
+        "distance": 1
+      },
+      {
+        "id": "1780939",
+        "name": "Tanjung Batu",
+        "alternate": "Tanjong Batu",
+        "distance": 1
+      },
+      {
+        "id": "1780941",
+        "name": "Tanjung Batu",
+        "distance": 1
+      },
+      {
+        "id": "1780946",
+        "name": "Tanjung Batu",
+        "alternate": "Tanjong Batu",
+        "distance": 1
+      },
+      {
+        "id": "1780947",
+        "name": "Tanjung Batu",
+        "alternate": "Tanjong Batu",
+        "distance": 1
+      },
+      {
+        "id": "1901808",
+        "name": "Tanjung Batu",
+        "alternate": "Tanjung Batu",
+        "distance": 1
+      },
+      {
+        "id": "1903394",
+        "name": "Tanjung Batu",
+        "distance": 1
+      },
+      {
+        "id": "8304167",
+        "name": "Tanjung Batu",
+        "alternate": "Tanjung Batu",
+        "distance": 1
+      },
+      {
+        "id": "8423675",
+        "name": "Tanjung Batu",
+        "alternate": "Tanjung Batu",
+        "distance": 1
+      },
+      {
+        "id": "8641878",
+        "name": "Tanjung Batu",
+        "alternate": "Tanjung Batu",
+        "distance": 1
+      },
+      {
+        "id": "8646760",
+        "name": "Tanjung Batu",
+        "alternate": "Tanjung Batu",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Tanjung Ratus",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1748927",
+        "name": "Tanjong Ratus",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Lano",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "8430933",
+        "name": "Dano",
+        "alternate": "Dano",
+        "distance": 1
+      },
+      {
+        "id": "9022265",
+        "name": "Lao",
+        "alternate": "Lao",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Lao",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "9022265",
+        "name": "Lao",
+        "alternate": "Lao",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Tajan",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1642108",
+        "name": "Kajan",
+        "alternate": "Kadjan",
+        "distance": 1
+      },
+      {
+        "id": "1741669",
+        "name": "Tanjan",
+        "distance": 1
+      },
+      {
+        "id": "7603918",
+        "name": "Tajau",
+        "alternate": "Tajau",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Pulu",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1630576",
+        "name": "Pugu",
+        "alternate": "Poegoe",
+        "distance": 1
+      },
+      {
+        "id": "1647772",
+        "name": "Bulu",
+        "distance": 1
+      },
+      {
+        "id": "1749804",
+        "name": "Pudu",
+        "distance": 1
+      },
+      {
+        "id": "8431015",
+        "name": "Pulau",
+        "alternate": "Pulau",
+        "distance": 1
+      },
+      {
+        "id": "9022237",
+        "name": "Ulu",
+        "alternate": "Ulu",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Maja",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1756421",
+        "name": "Maja",
+        "distance": 0
+      },
+      {
+        "id": "8425597",
+        "name": "Mala",
+        "alternate": "Mala",
+        "distance": 1
+      },
+      {
+        "id": "8531470",
+        "name": "Kaja",
+        "alternate": "Kaja",
+        "distance": 1
+      },
+      {
+        "id": "8646871",
+        "name": "Baja",
+        "alternate": "Baja",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Mendawak",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1635577",
+        "name": "Mendawai",
+        "alternate": "Mendawai",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Simpang",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "9014698",
+        "name": "Simpang",
+        "alternate": "Simpang",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Labai",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1638921",
+        "name": "Laban",
+        "alternate": "Kampoeng Blaban",
+        "distance": 1
+      },
+      {
+        "id": "1650952",
+        "name": "Babai",
+        "distance": 1
+      },
+      {
+        "id": "1735723",
+        "name": "Dabai",
+        "distance": 1
+      },
+      {
+        "id": "1735888",
+        "name": "Labas",
+        "alternate": "Labas",
+        "distance": 1
+      },
+      {
+        "id": "1758984",
+        "name": "Labau",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Lawa",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1737589",
+        "name": "Lawas",
+        "alternate": "LWY",
+        "distance": 1
+      },
+      {
+        "id": "1737590",
+        "name": "Lawas",
+        "alternate": "Lawas",
+        "distance": 1
+      },
+      {
+        "id": "1738150",
+        "name": "Lawas",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Pontianak",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1630789",
+        "name": "Pontianak",
+        "alternate": "Kota Pontianak",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Landak",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1638509",
+        "name": "Landau",
+        "distance": 1
+      },
+      {
+        "id": "1638510",
+        "name": "Landau",
+        "distance": 1
+      },
+      {
+        "id": "8430526",
+        "name": "Lanjak",
+        "alternate": "Lanjak",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Sanggau",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "9018132",
+        "name": "Sanggau",
+        "alternate": "Sanggau",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Laban",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1638921",
+        "name": "Laban",
+        "alternate": "Kampoeng Blaban",
+        "distance": 0
+      },
+      {
+        "id": "1734172",
+        "name": "Labang",
+        "distance": 1
+      },
+      {
+        "id": "1734240",
+        "name": "Labuan",
+        "alternate": "Federal Territory of Labuan",
+        "distance": 1
+      },
+      {
+        "id": "1734273",
+        "name": "Labang",
+        "distance": 1
+      },
+      {
+        "id": "1735888",
+        "name": "Labas",
+        "alternate": "Labas",
+        "distance": 1
+      },
+      {
+        "id": "1737461",
+        "name": "Labang",
+        "distance": 1
+      },
+      {
+        "id": "1758984",
+        "name": "Labau",
+        "distance": 1
+      },
+      {
+        "id": "7045193",
+        "name": "Labuan",
+        "alternate": "Labuan",
+        "distance": 1
+      },
+      {
+        "id": "8430974",
+        "name": "Leban",
+        "alternate": "Leban",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Cambu",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1636589",
+        "name": "Mambu",
+        "alternate": "Mamboe",
+        "distance": 1
+      },
+      {
+        "id": "1642853",
+        "name": "Jambu",
+        "alternate": "Djamboe",
+        "distance": 1
+      },
+      {
+        "id": "1647398",
+        "name": "Camba",
+        "alternate": "Camba",
+        "distance": 1
+      },
+      {
+        "id": "1735984",
+        "name": "Jambu",
+        "distance": 1
+      },
+      {
+        "id": "1736841",
+        "name": "Jambu",
+        "distance": 1
+      },
+      {
+        "id": "9018067",
+        "name": "Jambu",
+        "alternate": "Jambu",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Tabania",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "8550915",
+        "name": "Tabani",
+        "alternate": "Tabani",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Alaba",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1733817",
+        "name": "Alab",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Alabuio",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1651680",
+        "name": "Alabio",
+        "alternate": "Alabio",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Paga",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1633304",
+        "name": "Pagat",
+        "alternate": "Pagat",
+        "distance": 1
+      },
+      {
+        "id": "1633310",
+        "name": "Pagar",
+        "distance": 1
+      },
+      {
+        "id": "8307412",
+        "name": "Paka",
+        "alternate": "Paka",
+        "distance": 1
+      },
+      {
+        "id": "8430429",
+        "name": "Pana",
+        "alternate": "Pana",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "baru",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "9018632",
+        "name": "Baru",
+        "alternate": "Baru",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Kota Baru",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1639537",
+        "name": "Kotabaru",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Kotawaringin",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1639478",
+        "name": "Kotawaringin",
+        "alternate": "Katawaringin",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Paco",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "7588795",
+        "name": "Paho",
+        "alternate": "Paho",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Patchor",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1734538",
+        "name": "Panchor",
+        "alternate": "Panchor",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Sedang",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1635736",
+        "name": "Medang",
+        "distance": 1
+      },
+      {
+        "id": "1736725",
+        "name": "Sesang",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Tanjung Sambar",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1628983",
+        "name": "Tanjung Sambar",
+        "alternate": "Batu Titi",
+        "distance": 0
+      },
+      {
+        "id": "1899867",
+        "name": "Tanjung Sambas",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Mempawah",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1635612",
+        "name": "Mempawah",
+        "alternate": "Mampawa",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Zau",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1631937",
+        "name": "Pau",
+        "alternate": "Paoe",
+        "distance": 1
+      },
+      {
+        "id": "1734471",
+        "name": "Bau",
+        "distance": 1
+      },
+      {
+        "id": "1734539",
+        "name": "Bau",
+        "alternate": "Bau",
+        "distance": 1
+      },
+      {
+        "id": "8613569",
+        "name": "Tau",
+        "alternate": "Tau",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Lau",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1631937",
+        "name": "Pau",
+        "alternate": "Paoe",
+        "distance": 1
+      },
+      {
+        "id": "1638303",
+        "name": "Laut",
+        "distance": 1
+      },
+      {
+        "id": "1734077",
+        "name": "Liau",
+        "distance": 1
+      },
+      {
+        "id": "1734471",
+        "name": "Bau",
+        "distance": 1
+      },
+      {
+        "id": "1734539",
+        "name": "Bau",
+        "alternate": "Bau",
+        "distance": 1
+      },
+      {
+        "id": "1757150",
+        "name": "Liu",
+        "distance": 1
+      },
+      {
+        "id": "8613569",
+        "name": "Tau",
+        "alternate": "Tau",
+        "distance": 1
+      },
+      {
+        "id": "9022265",
+        "name": "Lao",
+        "alternate": "Lao",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Ledo",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1638185",
+        "name": "Ledo",
+        "distance": 0
+      },
+      {
+        "id": "8551000",
+        "name": "Leko",
+        "alternate": "Leko",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Santang",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1628726",
+        "name": "Sansang",
+        "distance": 1
+      },
+      {
+        "id": "6301243",
+        "name": "Sintang",
+        "alternate": "SQG",
+        "distance": 1
+      },
+      {
+        "id": "8430883",
+        "name": "Tantang",
+        "alternate": "Tantang",
+        "distance": 1
+      },
+      {
+        "id": "9022241",
+        "name": "Santung",
+        "alternate": "Santung",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Sintang",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "6301243",
+        "name": "Sintang",
+        "alternate": "SQG",
+        "distance": 0
+      },
+      {
+        "id": "8646831",
+        "name": "Lintang",
+        "alternate": "Lintang",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Kimanis",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1733363",
+        "name": "Kimanis",
+        "alternate": "Kimanis",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Laboan",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1638921",
+        "name": "Laban",
+        "alternate": "Kampoeng Blaban",
+        "distance": 1
+      },
+      {
+        "id": "1734240",
+        "name": "Labuan",
+        "alternate": "Federal Territory of Labuan",
+        "distance": 1
+      },
+      {
+        "id": "7045193",
+        "name": "Labuan",
+        "alternate": "Labuan",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Labuan",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "7045193",
+        "name": "Labuan",
+        "alternate": "Labuan",
+        "distance": 0
+      },
+      {
+        "id": "8647382",
+        "name": "Laburan",
+        "alternate": "Laburan",
+        "distance": 1
+      },
+      {
+        "id": "8647544",
+        "name": "Laburan",
+        "alternate": "Laburan",
+        "distance": 1
+      },
+      {
+        "id": "9021999",
+        "name": "Abuan",
+        "alternate": "Abuan",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Torong",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1642396",
+        "name": "Jorong",
+        "alternate": "Djorong",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Jesselton",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "9950918",
+        "name": "Jesselton",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Papar",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1733398",
+        "name": "Papar",
+        "distance": 0
+      },
+      {
+        "id": "8356009",
+        "name": "Papas",
+        "alternate": "Papas",
+        "distance": 1
+      },
+      {
+        "id": "8647554",
+        "name": "Kapar",
+        "alternate": "Kapar",
+        "distance": 1
+      },
+      {
+        "id": "9022847",
+        "name": "Papan",
+        "alternate": "Papan",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Kuala",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "8431110",
+        "name": "Kuala",
+        "alternate": "Kuala",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Mataon",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1635900",
+        "name": "Matan",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Passir",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1632172",
+        "name": "Pasir",
+        "distance": 1
+      },
+      {
+        "id": "1899799",
+        "name": "Pasir",
+        "distance": 1
+      },
+      {
+        "id": "7784798",
+        "name": "Pasir",
+        "alternate": "Pasir",
+        "distance": 1
+      },
+      {
+        "id": "9014797",
+        "name": "Pasir",
+        "alternate": "Pasir",
+        "distance": 1
+      },
+      {
+        "id": "9022043",
+        "name": "Pasir",
+        "alternate": "Pasir",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Balikpapan",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1650527",
+        "name": "Balikpapan",
+        "alternate": "BPN",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Pamattan",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1632988",
+        "name": "Pamatian",
+        "alternate": "Pamatian",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Telok Apar",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1651321",
+        "name": "Teluk Apar",
+        "alternate": "Apar-baai",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Camla",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1647398",
+        "name": "Camba",
+        "alternate": "Camba",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Kintap",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1639992",
+        "name": "Kintap",
+        "alternate": "Kintap",
+        "distance": 0
+      },
+      {
+        "id": "7418674",
+        "name": "Lintap",
+        "alternate": "Lintap",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Barito",
+      "source": "Broek"
+    },
+    "matches": [
+      {
+        "id": "1737824",
+        "name": "Bario",
+        "alternate": "BBN",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Kalimantan",
+      "source": "Ogden"
+    },
+    "matches": [
+      {
+        "id": "1641903",
+        "name": "Kalimantan",
+        "alternate": "Dutch Borneo",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Iamba",
+      "source": "Ogden"
+    },
+    "matches": [
+      {
+        "id": "1647398",
+        "name": "Camba",
+        "alternate": "Camba",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Banjarmasin",
+      "source": "Ogden"
+    },
+    "matches": [
+      {
+        "id": "1650213",
+        "name": "Banjarmasin",
+        "alternate": "BDJ",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Banjer",
+      "source": "van Dam"
+    },
+    "matches": [
+      {
+        "id": "8647591",
+        "name": "Banjur",
+        "alternate": "Banjur",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Bandjar",
+      "source": "van Dam"
+    },
+    "matches": [
+      {
+        "id": "8531145",
+        "name": "Bandjor",
+        "alternate": "Bandjor",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Pengaron",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1631512",
+        "name": "Pangaron",
+        "alternate": "Pangaron",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Eantau",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1630033",
+        "name": "Rantau",
+        "alternate": "Rantau",
+        "distance": 1
+      },
+      {
+        "id": "1632535",
+        "name": "Pantau",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Martapura",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1636022",
+        "name": "Martapura",
+        "alternate": "Martapoera",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Kendangan",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1641546",
+        "name": "Kandangan",
+        "distance": 1
+      },
+      {
+        "id": "1641547",
+        "name": "Kandangan",
+        "alternate": "Kandangan",
+        "distance": 1
+      },
+      {
+        "id": "1733827",
+        "name": "Kandangan",
+        "distance": 1
+      },
+      {
+        "id": "8646768",
+        "name": "Kenangan",
+        "alternate": "Kenangan",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Barabei",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1650064",
+        "name": "Barabai",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Tandjong",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1741662",
+        "name": "Tanjong",
+        "distance": 1
+      },
+      {
+        "id": "1741663",
+        "name": "Tanjong",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Amunthai",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1651461",
+        "name": "Amuntai",
+        "alternate": "Amoentai",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Marabahan",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1636192",
+        "name": "Marabahan",
+        "alternate": "Marabahan",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Kwala Kapuas",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1759567",
+        "name": "Kuala Kapuas",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Buntok",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1647601",
+        "name": "Buntok",
+        "alternate": "Boentok",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Muara Teweh",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1634788",
+        "name": "Muara Teweh",
+        "alternate": "MTW",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Samarinda",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1629001",
+        "name": "Samarinda",
+        "alternate": "Batoeng Panggol",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Ngabang",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1634201",
+        "name": "Ngabang",
+        "alternate": "Ngabang",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Montrado",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1635021",
+        "name": "Montrado",
+        "alternate": "Monterado",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Pamangkat",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1631637",
+        "name": "Pemangkat",
+        "alternate": "Pamangka",
+        "distance": 1
+      },
+      {
+        "id": "1631638",
+        "name": "Pemangkat",
+        "distance": 1
+      },
+      {
+        "id": "1631639",
+        "name": "Pemangkat",
+        "alternate": "Goenoeng Pemangkat",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Sungei Kakap",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1642085",
+        "name": "Sungai Kakap",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Lundu",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1756650",
+        "name": "Lundu",
+        "distance": 0
+      },
+      {
+        "id": "7772373",
+        "name": "Bundu",
+        "alternate": "Bundu",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Batang- Lupar",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1735798",
+        "name": "Batang Lupar",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Mukah",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1735339",
+        "name": "Mukah",
+        "alternate": "MKM",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Bintulu",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1737486",
+        "name": "Bintulu",
+        "alternate": "BTU",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Kuraman",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "6941956",
+        "name": "Kuraman",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Burong",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1647493",
+        "name": "Butong",
+        "alternate": "Boetong",
+        "distance": 1
+      },
+      {
+        "id": "1647543",
+        "name": "Burung",
+        "distance": 1
+      },
+      {
+        "id": "1647544",
+        "name": "Burung",
+        "distance": 1
+      },
+      {
+        "id": "1736865",
+        "name": "Bukong",
+        "distance": 1
+      },
+      {
+        "id": "1778237",
+        "name": "Bukong",
+        "distance": 1
+      },
+      {
+        "id": "8646989",
+        "name": "Berong",
+        "alternate": "Berong",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Pappan",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "9022847",
+        "name": "Papan",
+        "alternate": "Papan",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Daat",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1735298",
+        "name": "Dalat",
+        "alternate": "Dalat",
+        "distance": 1
+      },
+      {
+        "id": "1736807",
+        "name": "Dalat",
+        "alternate": "Dalat",
+        "distance": 1
+      },
+      {
+        "id": "1736929",
+        "name": "Dalat",
+        "alternate": "Dalat",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Sabah",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "9022269",
+        "name": "Sabah",
+        "alternate": "Sabah",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Sandakan",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1734052",
+        "name": "Sandakan",
+        "alternate": "Elopura",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Gaya",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "7064126",
+        "name": "Gaya",
+        "alternate": "Gaya",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Putatan",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1733440",
+        "name": "Putatan",
+        "alternate": "Kampong Putatan",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Kudat",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "6607263",
+        "name": "Kudat",
+        "alternate": "Kudat",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Marudu",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1737919",
+        "name": "Marudi",
+        "alternate": "Claudetown",
+        "distance": 1
+      },
+      {
+        "id": "1738064",
+        "name": "Marudi",
+        "alternate": "Baram",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Silam",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1733606",
+        "name": "Silam",
+        "alternate": "Silam",
+        "distance": 0
+      },
+      {
+        "id": "1743639",
+        "name": "Silom",
+        "distance": 1
+      },
+      {
+        "id": "8425586",
+        "name": "Silau",
+        "alternate": "Silau",
+        "distance": 1
+      },
+      {
+        "id": "8531532",
+        "name": "Silat",
+        "alternate": "Silat",
+        "distance": 1
+      },
+      {
+        "id": "8646827",
+        "name": "Silar",
+        "alternate": "Silar",
+        "distance": 1
+      },
+      {
+        "id": "9022063",
+        "name": "Sinam",
+        "alternate": "Sinam",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Tabanio",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "8550915",
+        "name": "Tabani",
+        "alternate": "Tabani",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Meliau",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1733542",
+        "name": "Meliau",
+        "alternate": "Gunong Meliau",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Laut",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1638303",
+        "name": "Laut",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Kwala",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1639313",
+        "name": "Kuala",
+        "alternate": "Koeala",
+        "distance": 1
+      },
+      {
+        "id": "1733359",
+        "name": "Kuala",
+        "alternate": "Bauta",
+        "distance": 1
+      },
+      {
+        "id": "8431110",
+        "name": "Kuala",
+        "alternate": "Kuala",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Kuming",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1639175",
+        "name": "Kuling",
+        "alternate": "Koeling",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Kusan",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1637020",
+        "name": "Lusan",
+        "alternate": "Loesan",
+        "distance": 1
+      },
+      {
+        "id": "8425545",
+        "name": "Kuran",
+        "alternate": "Kuran",
+        "distance": 1
+      },
+      {
+        "id": "8430882",
+        "name": "Musan",
+        "alternate": "Musan",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Sangau",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1628801",
+        "name": "Sanggau",
+        "distance": 1
+      },
+      {
+        "id": "1628802",
+        "name": "Sanggau",
+        "alternate": "Sanggau",
+        "distance": 1
+      },
+      {
+        "id": "1746747",
+        "name": "Sanggau",
+        "distance": 1
+      },
+      {
+        "id": "1746768",
+        "name": "Sangan",
+        "distance": 1
+      },
+      {
+        "id": "7603951",
+        "name": "Rangau",
+        "alternate": "Rangau",
+        "distance": 1
+      },
+      {
+        "id": "9018132",
+        "name": "Sanggau",
+        "alternate": "Sanggau",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Sungei Pinang",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1631135",
+        "name": "Sungai Pinang",
+        "alternate": "Sungai Pinang",
+        "distance": 1
+      },
+      {
+        "id": "1631136",
+        "name": "Sungai Pinang",
+        "distance": 1
+      },
+      {
+        "id": "1750168",
+        "name": "Sungai Pinang",
+        "distance": 1
+      },
+      {
+        "id": "1750169",
+        "name": "Sungai Pinang",
+        "alternate": "Sungai Pinang",
+        "distance": 1
+      },
+      {
+        "id": "1750170",
+        "name": "Sungai Pinang",
+        "distance": 1
+      },
+      {
+        "id": "1750176",
+        "name": "Sungai Pinang",
+        "distance": 1
+      },
+      {
+        "id": "1750177",
+        "name": "Sungai Pinang",
+        "distance": 1
+      },
+      {
+        "id": "1750178",
+        "name": "Sungai Pinang",
+        "distance": 1
+      },
+      {
+        "id": "1750179",
+        "name": "Sungai Pinang",
+        "distance": 1
+      },
+      {
+        "id": "1750180",
+        "name": "Sungai Pinang",
+        "distance": 1
+      },
+      {
+        "id": "1750181",
+        "name": "Sungai Pinang",
+        "distance": 1
+      },
+      {
+        "id": "1750182",
+        "name": "Sungai Pinang",
+        "distance": 1
+      },
+      {
+        "id": "1750183",
+        "name": "Sungai Pinang",
+        "distance": 1
+      },
+      {
+        "id": "1750184",
+        "name": "Sungai Pinang",
+        "distance": 1
+      },
+      {
+        "id": "1750185",
+        "name": "Sungai Pinang",
+        "distance": 1
+      },
+      {
+        "id": "1750186",
+        "name": "Sungai Pinang",
+        "distance": 1
+      },
+      {
+        "id": "1750187",
+        "name": "Sungai Pinang",
+        "distance": 1
+      },
+      {
+        "id": "1750188",
+        "name": "Sungai Pinang",
+        "distance": 1
+      },
+      {
+        "id": "1750189",
+        "name": "Sungai Pinang",
+        "distance": 1
+      },
+      {
+        "id": "1750190",
+        "name": "Sungai Pinang",
+        "distance": 1
+      },
+      {
+        "id": "1750192",
+        "name": "Sungai Pinang",
+        "distance": 1
+      },
+      {
+        "id": "1750193",
+        "name": "Sungai Pinang",
+        "distance": 1
+      },
+      {
+        "id": "7417949",
+        "name": "Sungai Pinang",
+        "alternate": "Sungai Pinang",
+        "distance": 1
+      },
+      {
+        "id": "7458650",
+        "name": "Sungai Pinang",
+        "alternate": "Sungai Pinang",
+        "distance": 1
+      },
+      {
+        "id": "8423776",
+        "name": "Sungai Pinang",
+        "alternate": "Sungai Pinang",
+        "distance": 1
+      },
+      {
+        "id": "8647294",
+        "name": "Sungai Pinang",
+        "alternate": "Sungai Pinang",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Bulik",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1645920",
+        "name": "Culik",
+        "alternate": "Culik",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Delang",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1631715",
+        "name": "Pelang",
+        "distance": 1
+      },
+      {
+        "id": "1776021",
+        "name": "Dulang",
+        "distance": 1
+      },
+      {
+        "id": "9014221",
+        "name": "Belang",
+        "alternate": "Belang",
+        "distance": 1
+      },
+      {
+        "id": "9018070",
+        "name": "Kelang",
+        "alternate": "Kelang",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Bangkalan",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1650299",
+        "name": "Bangkalan",
+        "alternate": "Bangkalaan",
+        "distance": 0
+      },
+      {
+        "id": "1650340",
+        "name": "Bangalan",
+        "distance": 1
+      },
+      {
+        "id": "1781342",
+        "name": "Bangkawan",
+        "alternate": "Bangkawan",
+        "distance": 1
+      },
+      {
+        "id": "1899866",
+        "name": "Bangkalai",
+        "distance": 1
+      },
+      {
+        "id": "7064089",
+        "name": "Bangkawan",
+        "alternate": "Bangkawan",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Ngabong",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1634201",
+        "name": "Ngabang",
+        "alternate": "Ngabang",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Djambu",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1642853",
+        "name": "Jambu",
+        "alternate": "Djamboe",
+        "distance": 1
+      },
+      {
+        "id": "1735984",
+        "name": "Jambu",
+        "distance": 1
+      },
+      {
+        "id": "1736841",
+        "name": "Jambu",
+        "distance": 1
+      },
+      {
+        "id": "8531141",
+        "name": "Djabu",
+        "alternate": "Djabu",
+        "distance": 1
+      },
+      {
+        "id": "9018067",
+        "name": "Jambu",
+        "alternate": "Jambu",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Batang kanan",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1734517",
+        "name": "Batang Kayan",
+        "alternate": "Batang Kayan",
+        "distance": 1
+      },
+      {
+        "id": "1737002",
+        "name": "Batang Kayan",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Beang",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1648006",
+        "name": "Buang",
+        "alternate": "Boeang",
+        "distance": 1
+      },
+      {
+        "id": "1648837",
+        "name": "Biang",
+        "distance": 1
+      },
+      {
+        "id": "8551001",
+        "name": "Benang",
+        "alternate": "Benang",
+        "distance": 1
+      },
+      {
+        "id": "9014221",
+        "name": "Belang",
+        "alternate": "Belang",
+        "distance": 1
+      },
+      {
+        "id": "9022255",
+        "name": "Biang",
+        "alternate": "Biang",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Tapang",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "11844680",
+        "name": "Tapang",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Sayo",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1628409",
+        "name": "Sayu",
+        "alternate": "Sajoe",
+        "distance": 1
+      },
+      {
+        "id": "1628426",
+        "name": "Sawo",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Kunjit",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1639080",
+        "name": "Kunyit",
+        "alternate": "Koenjit",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Biang",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "9022255",
+        "name": "Biang",
+        "alternate": "Biang",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Skadau",
+      "source": "Posewitz"
+    },
+    "matches": [
+      {
+        "id": "1629286",
+        "name": "Sadau",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Sungai Landak",
+      "source": "Spencer"
+    },
+    "matches": [
+      {
+        "id": "1758570",
+        "name": "Sungai Landak",
+        "distance": 0
+      },
+      {
+        "id": "1758609",
+        "name": "Sungai Lanadak",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Cempaka",
+      "source": "Spencer"
+    },
+    "matches": [
+      {
+        "id": "1647230",
+        "name": "Cempaka",
+        "alternate": "Cempaka",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Banjar Baru",
+      "source": "Spencer"
+    },
+    "matches": [
+      {
+        "id": "1650217",
+        "name": "Banjarbaru",
+        "alternate": "Bandjarbaru",
+        "distance": 1
+      },
+      {
+        "id": "8641950",
+        "name": "Banjarbaru",
+        "alternate": "Banjarbaru",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Landak",
+      "source": "https://bit.ly/2LemFo2"
+    },
+    "matches": [
+      {
+        "id": "1638509",
+        "name": "Landau",
+        "distance": 1
+      },
+      {
+        "id": "1638510",
+        "name": "Landau",
+        "distance": 1
+      },
+      {
+        "id": "8430526",
+        "name": "Lanjak",
+        "alternate": "Lanjak",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Gunung Niyut",
+      "source": "https://bit.ly/2LemFo2"
+    },
+    "matches": [
+      {
+        "id": "1633911",
+        "name": "Gunung Niut",
+        "alternate": "Goenoeng Naiut",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Gunung Lawit",
+      "source": "https://bit.ly/2LemFo2"
+    },
+    "matches": [
+      {
+        "id": "1758128",
+        "name": "Gunung Lawit",
+        "alternate": "Dejoet",
+        "distance": 0
+      },
+      {
+        "id": "8430894",
+        "name": "Gunung Lait",
+        "alternate": "Gunung Lait",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Pegunungan Muller",
+      "source": "https://bit.ly/2LemFo2"
+    },
+    "matches": [
+      {
+        "id": "1634737",
+        "name": "Pegunungan Muller",
+        "alternate": "Muller Mountains",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Pegunungan Meratus",
+      "source": "https://bit.ly/2LemFo2"
+    },
+    "matches": [
+      {
+        "id": "1635391",
+        "name": "Pegunungan Meratus",
+        "alternate": "Meratoes Gebergte",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Murung",
+      "source": "https://bit.ly/2LemFo2"
+    },
+    "matches": [
+      {
+        "id": "1635193",
+        "name": "Mirung",
+        "alternate": "Miroeng",
+        "distance": 1
+      },
+      {
+        "id": "1647543",
+        "name": "Burung",
+        "distance": 1
+      },
+      {
+        "id": "1647544",
+        "name": "Burung",
+        "distance": 1
+      },
+      {
+        "id": "8647472",
+        "name": "Purung",
+        "alternate": "Purung",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Negara",
+      "source": "https://bit.ly/2LemFo2"
+    },
+    "matches": [
+      {
+        "id": "1634267",
+        "name": "Negara",
+        "alternate": "Negara",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Tengah",
+      "source": "https://bit.ly/2LemFo2"
+    },
+    "matches": [
+      {
+        "id": "9021978",
+        "name": "Tengah",
+        "alternate": "Tengah",
+        "distance": 0
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Sungai Lahung",
+      "source": "https://bit.ly/2LemFo2"
+    },
+    "matches": [
+      {
+        "id": "1638768",
+        "name": "Sungai Lahung",
+        "alternate": "Soengai Lahoeng",
+        "distance": 0
+      },
+      {
+        "id": "8647325",
+        "name": "Sungai Lasung",
+        "alternate": "Sungai Lasung",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Gula",
+      "source": "https://bit.ly/2LemFo2"
+    },
+    "matches": [
+      {
+        "id": "1643713",
+        "name": "Guha",
+        "distance": 1
+      },
+      {
+        "id": "1735754",
+        "name": "Gua",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Sungai Tiung",
+      "source": "https://bit.ly/2LemFo2"
+    },
+    "matches": [
+      {
+        "id": "1735859",
+        "name": "Sungai Siung",
+        "alternate": "Sungai Siong",
+        "distance": 1
+      },
+      {
+        "id": "1738142",
+        "name": "Sungai Tiang",
+        "distance": 1
+      },
+      {
+        "id": "1738750",
+        "name": "Sungai Tung",
+        "distance": 1
+      },
+      {
+        "id": "1739387",
+        "name": "Sungai Tiong",
+        "distance": 1
+      },
+      {
+        "id": "1739642",
+        "name": "Sungai Tiang",
+        "distance": 1
+      },
+      {
+        "id": "1739643",
+        "name": "Sungai Tiang",
+        "alternate": "Sungai Tiang",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Riam",
+      "source": "https://bit.ly/2NbrpMK"
+    },
+    "matches": [
+      {
+        "id": "1629680",
+        "name": "Riam",
+        "alternate": "Riam",
+        "distance": 0
+      },
+      {
+        "id": "1734202",
+        "name": "Rian",
+        "distance": 1
+      },
+      {
+        "id": "8613482",
+        "name": "Rian",
+        "alternate": "Rian",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Danau",
+      "source": "https://bit.ly/2NbrpMK"
+    },
+    "matches": [
+      {
+        "id": "1776527",
+        "name": "Danau",
+        "distance": 0
+      },
+      {
+        "id": "8307534",
+        "name": "Manau",
+        "alternate": "Manau",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Pegattan",
+      "source": "https://bit.ly/2NbrpMK"
+    },
+    "matches": [
+      {
+        "id": "1633263",
+        "name": "Pegatan",
+        "alternate": "Pagetan",
+        "distance": 1
+      },
+      {
+        "id": "1899773",
+        "name": "Pegatan",
+        "distance": 1
+      }
+    ]
+  },
+  {
+    "literal": {
+      "name": "Tatas",
+      "source": "https://bit.ly/2NeT4wc"
+    },
+    "matches": [
+      {
+        "id": "8531573",
+        "name": "Tatas",
+        "alternate": "Tatas",
+        "distance": 0
+      },
+      {
+        "id": "8613501",
+        "name": "Taras",
+        "alternate": "Taras",
+        "distance": 1
+      }
+    ]
+  }
+]

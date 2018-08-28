@@ -1,0 +1,6 @@
+{
+  "tolerance": 1,
+  "output": "matches.csv",
+  "dictionary": "dictionary.csv",
+  "literals": "literals.csv"
+}

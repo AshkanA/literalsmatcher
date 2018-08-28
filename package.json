@@ -1,0 +1,15 @@
+{
+  "name": "ashkan-levenshtein",
+  "version": "1.0.0",
+  "description": "",
+  "main": "match.js",
+  "dependencies": {
+    "fast-levenshtein": "^2.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
