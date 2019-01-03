@@ -6,14 +6,6 @@ const literals = [];
 const dictionary = {};
 const matches = [];
 
-const literalsLineReader = require('readline').createInterface({
-  input: fs.createReadStream(path.join(__dirname, config.literals))
-});
-
-const dictionaryLineReader = require('readline').createInterface({
-  input: fs.createReadStream(path.join(__dirname, config.dictionary))
-});
-
 function exportToCSV() {
 
   let data = 'Literal,Source,Match Name,Match ID,Match Alternate,Match Distance\n';
@@ -33,6 +25,10 @@ function exportToCSV() {
 }
 
 function readLiterals() {
+
+  const literalsLineReader = require('readline').createInterface({
+    input: fs.createReadStream(path.join(__dirname, config.literals))
+  });
 
   return new Promise((resolve, reject) => {
 
@@ -63,6 +59,10 @@ function readLiterals() {
 }
 
 function readDictionary() {
+
+  const dictionaryLineReader = require('readline').createInterface({
+    input: fs.createReadStream(path.join(__dirname, config.dictionary))
+  });
 
   return new Promise((resolve, reject) => {
 
